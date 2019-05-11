@@ -1,5 +1,5 @@
 owner=457732668155494402
-prefix=3
+prefix=i
 game=ihelp | iplay
 stayinchannel=true
 songinstatus=false
