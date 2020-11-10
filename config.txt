@@ -3,4 +3,4 @@ prefix=i
 game=ihelp | iplay
 stayinchannel=true
 songinstatus=false
-token=NjMxNDkyNTI2OTU5NzU1MjY0.XfjRBw.3-djFd1xCu9N6_8S-lfMsFSQyHA
+token=NTk0ODc5OTI5NjYxOTE1MTM2.XRi3Gw.kYVUdXFezOnuv5SZ_aLxeQ0Muy4
